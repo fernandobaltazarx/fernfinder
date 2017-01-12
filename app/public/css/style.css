@@ -1,0 +1,56 @@
+body{
+  background-color: #dedddd;
+}
+
+.jumbotron {
+  color: white;
+  margin-top: 60px;
+  background-color: #764d71;
+}
+
+#survey-btn{
+  color: black;
+  background-color: #dedddd;
+  margin-top: 30px;
+  border: 1px solid black;
+}
+
+#submit-button {
+  background-color: #764d71;
+  color: white;
+  font-size: 20px;
+}
+
+#match-image {
+    height: 120px;
+}
+
+#panel-top {
+  background-color: #85577f;
+  color: white;
+  font-size: 22px;
+}
+
+#instructions {
+  margin-left: 20px;
+  line-height: 20px;
+}
+
+p a {
+  color: #85577f;
+}
+
+p a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+#survey-hr {
+  color: black;
+  background-color: black;
+  height: 1px;
+}
+
+.img-responsive {
+    margin: 0 auto;
+}
